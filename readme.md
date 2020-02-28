@@ -48,7 +48,7 @@ i used **ES6** and **jest** to run tests ( i know that using Typescript can be e
 ### Installation / passing tests
 
 ```sh
-> git pull https://gitlab.com/closestToZero
+> git clone https://github.com/larbijirari/closestToZero.git
 > cd closestToZero
 > npm install
 > npm run test
