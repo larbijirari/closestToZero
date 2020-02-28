@@ -38,7 +38,8 @@ i used **ES6** and **jest** to run tests ( i know that using Typescript can be e
 - add a sonarcube to monitor code quality
 - ask for code review
 - use a commit message that has the following syntax:if you apply this commit it wil '<commit message>'
-
+- Dockerise the environnement
+  
 ## files structure
 
 `/src/closestToZero.js` => containts the function
