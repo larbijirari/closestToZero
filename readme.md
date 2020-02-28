@@ -42,6 +42,7 @@ i used **ES6** and **jest** to run tests ( i know that using Typescript can be e
 ## files structure
 
 `/src/closestToZero.js` => containts the function
+
 `/tests/closestToZero.spec.js` => containts the tests
 
 ### Installation / passing tests
