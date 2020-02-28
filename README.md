@@ -1,2 +1,0 @@
-# closestToZero
-Created with CodeSandbox

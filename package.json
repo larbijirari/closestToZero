@@ -1,0 +1,13 @@
+{
+  "name": "closeToZero",
+  "version": "1.0.0",
+  "description": "a function that returns the closest value to Zero",
+  "main": "src/closestToZero.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "25.1.0"
+  }
+}
